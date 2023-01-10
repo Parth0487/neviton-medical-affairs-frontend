@@ -1,0 +1,48 @@
+/* eslint-disable import/no-anonymous-default-export */
+export default [
+  {
+    id: 1,
+    name: "Product Manager",
+    member: 2,
+    created_by: "Allen Toffanelli",
+    created_on: "5/12/2021",
+    updated_by: null,
+    updated_on: null,
+  },
+  {
+    id: 2,
+    name: "VP of Marketing",
+    member: 2,
+    created_by: "Palm McGeffen",
+    created_on: "2/25/2021",
+    updated_by: "Persis Guisler",
+    updated_on: "8/2/2021",
+  },
+  {
+    id: 3,
+    name: "Chief Architect",
+    member: 2,
+    created_by: "Norene L' Anglois",
+    created_on: "1/28/2021",
+    updated_by: "Woodman Glacken",
+    updated_on: "7/11/2021",
+  },
+  {
+    id: 4,
+    name: "Software Architect",
+    member: 2,
+    created_by: "Norene L' Anglois",
+    created_on: "1/28/2021",
+    updated_by: "Woodman Glacken",
+    updated_on: "7/11/2021",
+  },
+  {
+    id: 5,
+    name: "Software Engineer",
+    member: 2,
+    created_by: "Norene L' Anglois",
+    created_on: "1/28/2021",
+    updated_by: "Woodman Glacken",
+    updated_on: "7/11/2021",
+  },
+];
